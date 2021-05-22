@@ -1,0 +1,15 @@
+C:\Users\farha\source\repos\RaspApp\RaspApp\bin\Debug\netcoreapp2.1\linux-arm\libhostpolicy.so
+C:\Users\farha\source\repos\RaspApp\RaspApp\bin\Debug\netcoreapp2.1\linux-arm\libhostfxr.so
+C:\Users\farha\source\repos\RaspApp\RaspApp\bin\Debug\netcoreapp2.1\linux-arm\RaspApp
+C:\Users\farha\source\repos\RaspApp\RaspApp\bin\Debug\netcoreapp2.1\linux-arm\RaspApp.deps.json
+C:\Users\farha\source\repos\RaspApp\RaspApp\bin\Debug\netcoreapp2.1\linux-arm\RaspApp.runtimeconfig.json
+C:\Users\farha\source\repos\RaspApp\RaspApp\bin\Debug\netcoreapp2.1\linux-arm\RaspApp.runtimeconfig.dev.json
+C:\Users\farha\source\repos\RaspApp\RaspApp\bin\Debug\netcoreapp2.1\linux-arm\RaspApp.dll
+C:\Users\farha\source\repos\RaspApp\RaspApp\bin\Debug\netcoreapp2.1\linux-arm\RaspApp.pdb
+C:\Users\farha\source\repos\RaspApp\RaspApp\obj\Debug\netcoreapp2.1\linux-arm\RaspApp.csprojAssemblyReference.cache
+C:\Users\farha\source\repos\RaspApp\RaspApp\obj\Debug\netcoreapp2.1\linux-arm\RaspApp.AssemblyInfoInputs.cache
+C:\Users\farha\source\repos\RaspApp\RaspApp\obj\Debug\netcoreapp2.1\linux-arm\RaspApp.AssemblyInfo.cs
+C:\Users\farha\source\repos\RaspApp\RaspApp\obj\Debug\netcoreapp2.1\linux-arm\RaspApp.csproj.CoreCompileInputs.cache
+C:\Users\farha\source\repos\RaspApp\RaspApp\obj\Debug\netcoreapp2.1\linux-arm\RaspApp.dll
+C:\Users\farha\source\repos\RaspApp\RaspApp\obj\Debug\netcoreapp2.1\linux-arm\RaspApp.pdb
+C:\Users\farha\source\repos\RaspApp\RaspApp\obj\Debug\netcoreapp2.1\linux-arm\RaspApp.genruntimeconfig.cache
